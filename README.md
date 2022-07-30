@@ -1,3 +1,3 @@
 # Morpion
 
-URL : morpion.pages.dev
+URL : https://morpion.pages.dev
